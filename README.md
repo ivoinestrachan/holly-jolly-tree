@@ -1,4 +1,4 @@
-# Binary Christmas Tree
+# 🎄 Binary Christmas Tree 🎄
 Welcome to the Holly Jolly Christmas Tree project!
 
 Are you tired of boring, plain old Christmas trees? Look no further, because this project brings some extra cheer and joy to your holiday season with a festive, ASCII-art Christmas tree.
